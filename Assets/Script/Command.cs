@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 using System;
-public class Command <T>: Singleton<T> {
+using System.Linq;
+public class Command <T>: Singleton  <T> {
     public Dictionary<int, List<Action>> commandSet = new Dictionary<int, List<Action>>();
     protected Action executingCommand;
     public virtual int maxCommand
@@ -24,25 +25,30 @@ public class Command <T>: Singleton<T> {
             if (isAvaiableCommand && !isMaxCommand) { 
                 commandSet[hash].Add(command);
                 //A command was added.
-                Debug.Log("Command was added");
              }
         }
         else
         {
             commandSet.Add(hash, new List<Action>() {command});
-            Debug.Log("Command was created");
+            Debug.Log("Add command key: " + hash);
+            //foreach (KeyValuePair<int, List<Action>> cmd in commandSet.Reverse())
+            //{
+            //    Debug.Log(cmd.Key);
+            //}
+            //Command inited a new key.
         }
     }
     public void NextCommand(int hash) {
         executingCommand = null;
         commandSet[hash].RemoveAt(0);
         if (commandSet[hash].Count > 0) { 
- 
            executingCommand = commandSet[hash][0];
+            //Debug.Log("Execute same command: " + hash)
         }
         else
         {
-            commandSet.Remove(hash);            
+            commandSet.Remove(hash);
+            //Debug.Log("Delete command key: " + hash);
         }
     }
     public void ExecuteCommand()
@@ -62,9 +68,11 @@ public class Command <T>: Singleton<T> {
         foreach (KeyValuePair<int,List<Action>> cmd in commandSet)
         {
             var commands = cmd.Value;
-            if (commands != null && commands.Count > 0)
+            if (commands.Count > 0)
+            {
                 executingCommand = commands[0];
-            return;
+                return;
+            }
         }
        
 

@@ -51,6 +51,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Script\Area.cs" />
      <Compile Include="Assets\Script\Batter.cs" />
      <Compile Include="Assets\Script\Cake.cs" />
      <Compile Include="Assets\Script\Command.cs" />

@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-public abstract class Machine: MonoBehaviour {
-
+public abstract class Machine: AreaBehaviour {
+    public float offset = 0.1f;
+   
     public abstract void StartProcess();
     public abstract void OnProcessComplete<TResult>(TResult result) where TResult : Pickable;
     protected virtual void OnMouseDown()
@@ -13,17 +14,21 @@ public abstract class Machine: MonoBehaviour {
     }
     public virtual void OnMachineClicked()
     {
+        Vector3 machinePos = Player.instance.clampedPosition;
+        Vector3 playerPos = clampedPosition;
+      
         bool isEqualPosition =
-            transform.position.magnitude > Player.instance.transform.position.magnitude ? 
-            Mathf.Abs(transform.position.magnitude) - Mathf.Abs(Player.instance.transform.position.magnitude) < 0.1f:
-            Mathf.Abs(transform.position.magnitude) - Mathf.Abs(Player.instance.transform.position.magnitude) > 0.1f; ;
-
+            machinePos.x > playerPos.x ?
+            machinePos.x - playerPos.x < offset : 
+            playerPos.x - machinePos.x < offset;
+       
         if (!isEqualPosition)
         {
-            Player.instance.Move(transform.position);
+            Player.instance.Move(clampedPosition);
             return;
         }
-        Player.instance.NextCommand(this.GetHashCode());
+        Player.instance.t = 0; //Reset moving
+        Player.instance.NextCommand(this.GetInstanceID());
           
     }
 }
