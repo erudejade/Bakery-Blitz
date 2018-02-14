@@ -1,0 +1,822 @@
+fileFormatVersion: 2
+guid: 12862812be1b44f408791ef0082cf552
+timeCreated: 1518589890
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - MapleStory - Big Puff Daddy_0
+    21300002: PC Computer - MapleStory - Big Puff Daddy_1
+    21300004: PC Computer - MapleStory - Big Puff Daddy_2
+    21300006: PC Computer - MapleStory - Big Puff Daddy_3
+    21300008: PC Computer - MapleStory - Big Puff Daddy_4
+    21300010: PC Computer - MapleStory - Big Puff Daddy_5
+    21300012: PC Computer - MapleStory - Big Puff Daddy_6
+    21300014: PC Computer - MapleStory - Big Puff Daddy_7
+    21300016: PC Computer - MapleStory - Big Puff Daddy_8
+    21300018: PC Computer - MapleStory - Big Puff Daddy_9
+    21300020: PC Computer - MapleStory - Big Puff Daddy_10
+    21300022: PC Computer - MapleStory - Big Puff Daddy_11
+    21300024: PC Computer - MapleStory - Big Puff Daddy_12
+    21300026: PC Computer - MapleStory - Big Puff Daddy_13
+    21300028: PC Computer - MapleStory - Big Puff Daddy_14
+    21300030: PC Computer - MapleStory - Big Puff Daddy_15
+    21300032: PC Computer - MapleStory - Big Puff Daddy_16
+    21300034: PC Computer - MapleStory - Big Puff Daddy_17
+    21300036: PC Computer - MapleStory - Big Puff Daddy_18
+    21300038: PC Computer - MapleStory - Big Puff Daddy_19
+    21300040: PC Computer - MapleStory - Big Puff Daddy_20
+    21300042: PC Computer - MapleStory - Big Puff Daddy_21
+    21300044: PC Computer - MapleStory - Big Puff Daddy_21.1
+    21300046: PC Computer - MapleStory - Big Puff Daddy_23
+    21300048: PC Computer - MapleStory - Big Puff Daddy_24
+    21300050: PC Computer - MapleStory - Big Puff Daddy_25
+    21300052: PC Computer - MapleStory - Big Puff Daddy_26
+    21300054: PC Computer - MapleStory - Big Puff Daddy_27
+    21300056: PC Computer - MapleStory - Big Puff Daddy_42
+    21300058: PC Computer - MapleStory - Big Puff Daddy_43
+    21300060: PC Computer - MapleStory - Big Puff Daddy_44
+    21300062: PC Computer - MapleStory - Big Puff Daddy_46
+    21300064: PC Computer - MapleStory - Big Puff Daddy_48
+    21300066: PC Computer - MapleStory - Big Puff Daddy_53
+    21300068: PC Computer - MapleStory - Big Puff Daddy_54
+    21300070: PC Computer - MapleStory - Big Puff Daddy_55
+    21300072: PC Computer - MapleStory - Big Puff Daddy_56
+    21300074: PC Computer - MapleStory - Big Puff Daddy_57
+    21300076: PC Computer - MapleStory - Big Puff Daddy_58
+    21300078: PC Computer - MapleStory - Big Puff Daddy_68
+    21300080: PC Computer - MapleStory - Big Puff Daddy_69
+    21300082: PC Computer - MapleStory - Big Puff Daddy_70
+    21300084: PC Computer - MapleStory - Big Puff Daddy_71
+    21300086: PC Computer - MapleStory - Big Puff Daddy_72
+    21300088: PC Computer - MapleStory - Big Puff Daddy_75
+    21300090: PC Computer - MapleStory - Big Puff Daddy_76
+    21300092: PC Computer - MapleStory - Big Puff Daddy_77
+    21300094: PC Computer - MapleStory - Big Puff Daddy_78
+    21300096: PC Computer - MapleStory - Big Puff Daddy_79
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 150
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2383
+        width: 287
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_1
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 2383
+        width: 286
+        height: 370
+      alignment: 9
+      pivot: {x: 0.5035, y: 0.5035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_2
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 2383
+        width: 288
+        height: 366
+      alignment: 9
+      pivot: {x: 0.5025, y: 0.507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_3
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 2383
+        width: 288
+        height: 370
+      alignment: 9
+      pivot: {x: 0.5035, y: 0.5035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1986
+        width: 286
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_5
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1986
+        width: 286
+        height: 369
+      alignment: 9
+      pivot: {x: 0.505, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_6
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1986
+        width: 291
+        height: 367
+      alignment: 9
+      pivot: {x: 0.5035, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_7
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1986
+        width: 295
+        height: 367
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_8
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1986
+        width: 291
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_9
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 1986
+        width: 282
+        height: 371
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_10
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1986
+        width: 281
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_11
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 1986
+        width: 281
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1572
+        width: 286
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_13
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1575
+        width: 335
+        height: 378
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_14
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1166
+        width: 287
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_15
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1167
+        width: 322
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_16
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1166
+        width: 322
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_17
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1166
+        width: 325
+        height: 365
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_18
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 1166
+        width: 256
+        height: 381
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_19
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1166
+        width: 240
+        height: 383
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_20
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 1166
+        width: 245
+        height: 381
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_21
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 1163
+        width: 334
+        height: 356
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_21.1
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 1166
+        width: 350
+        height: 347
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_23
+      rect:
+        serializedVersion: 2
+        x: 3107
+        y: 1165
+        width: 344
+        height: 342
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_24
+      rect:
+        serializedVersion: 2
+        x: 3453
+        y: 1163
+        width: 337
+        height: 349
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_25
+      rect:
+        serializedVersion: 2
+        x: 3795
+        y: 1163
+        width: 335
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_26
+      rect:
+        serializedVersion: 2
+        x: 4132
+        y: 1163
+        width: 289
+        height: 365
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_27
+      rect:
+        serializedVersion: 2
+        x: 4424
+        y: 1163
+        width: 288
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_42
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 556
+        width: 286
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_43
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 556
+        width: 335
+        height: 378
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_44
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 553
+        width: 326
+        height: 379
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_46
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 553
+        width: 323
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_48
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 553
+        width: 326
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_53
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 551
+        width: 319
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_54
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 551
+        width: 318
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_55
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 551
+        width: 318
+        height: 317
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_56
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 552
+        width: 319
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_57
+      rect:
+        serializedVersion: 2
+        x: 2952
+        y: 552
+        width: 317
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_58
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 579
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_68
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 119
+        width: 286
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_69
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 119
+        width: 292
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_70
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 119
+        width: 303
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_71
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 119
+        width: 335
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_72
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 119
+        width: 348
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_75
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 119
+        width: 337
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_76
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 119
+        width: 316
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_77
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 119
+        width: 314
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_78
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 119
+        width: 293
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Big Puff Daddy_79
+      rect:
+        serializedVersion: 2
+        x: 3030
+        y: 119
+        width: 291
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{3C351F03-936D-F9B4-36A2-F164EA25BF31}</ProjectGuid>
+    <ProjectGuid>{2F45BD12-161A-4494-4446-DB6C38E1AF4D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -52,6 +52,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Script\Area.cs" />
+     <Compile Include="Assets\Script\AreaBehaviour.cs" />
      <Compile Include="Assets\Script\Batter.cs" />
      <Compile Include="Assets\Script\Cake.cs" />
      <Compile Include="Assets\Script\Command.cs" />

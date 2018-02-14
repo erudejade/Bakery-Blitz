@@ -47,6 +47,9 @@ TagManager:
   - name: player
     uniqueID: 4199343385
     locked: 0
+  - name: product
+    uniqueID: 3916214415
+    locked: 0
   - name: kitchen_overlay
     uniqueID: 4064153847
     locked: 0
